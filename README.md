@@ -1,8 +1,10 @@
-### Kia ora
+# Kia ora
 
 I like making things with code and solving (or allowing others to solve) problems with those things. 
 
 I'm the lead developer of [iNZight](https://github.com/iNZightVIT) which is an R-based GUI for exploring data for beginners. 
+
+I might get around to making a somewhat-cool profile into page (on a weekend when it's too miserable to go outside and garden...).
 
 <!--
 **tmelliott/tmelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
