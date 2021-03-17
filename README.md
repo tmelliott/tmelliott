@@ -2,21 +2,11 @@
 
 I like making things with code and solving (or allowing others to solve) problems with those things. 
 
-I'm the lead developer of [iNZight](https://github.com/iNZightVIT) which is an R-based GUI for exploring data for beginners. 
+I'm the lead developer of [iNZight](https://github.com/iNZightVIT) which is an *R*-based GUI for exploring data for beginners. 
 
-I might get around to making a somewhat-cool profile into page (on a weekend when it's too miserable to go outside and garden...).
+Programs and languages that I usually dabble in include:
 
-<!--
-**tmelliott/tmelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* R
+* C++
+* LaTeX
+* HTML/CSS
