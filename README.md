@@ -7,6 +7,6 @@ I'm the lead developer of [iNZight](https://github.com/iNZightVIT) which is an *
 Programs and languages that I usually dabble in include:
 
 * R
-* C++
 * LaTeX
-* HTML/CSS
+* JS (e.g., reactjs, nextjs)
+* C++
