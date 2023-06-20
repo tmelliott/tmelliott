@@ -4,9 +4,4 @@ I like making things with code and solving (or allowing others to solve) problem
 
 I'm the lead developer of [iNZight](https://github.com/iNZightVIT) which is an *R*-based GUI for exploring data for beginners. 
 
-Programs and languages that I usually dabble in include:
-
-* R
-* LaTeX
-* JS (e.g., reactjs, nextjs)
-* C++
+I usually work with R for statistical tool development, and Javascript (ReactJS or NextJS) for web development.
